@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a full-stack application consisting of:
+This project is frontend for a full-stack application consisting of:
 
 - Backend: Java Spring Boot with REST API
 - Frontend: React (Vite)
@@ -36,12 +36,3 @@ This project is a full-stack application consisting of:
 
 ### Create campaign
 <img width="402" height="153" alt="Screenshot 2026-03-20 145327" src="https://github.com/user-attachments/assets/08454c13-e5e4-4523-b928-9f34cda0ba17" />
-
----
-
-## Backend
-
-### Run backend
-
-```bash
-mvn spring-boot:run
