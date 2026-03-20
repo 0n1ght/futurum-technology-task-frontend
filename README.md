@@ -2,16 +2,7 @@
 
 ## Overview
 
-This project is frontend for a full-stack application consisting of:
-
-- Backend: Java Spring Boot with REST API
-- Frontend: React (Vite)
-- Authentication: Basic Auth
-- Features:
-  - User registration
-  - Protected routes
-  - Campaign management (CRUD)
-  - Account balance display
+This project is frontend for a full-stack application for creating and managing campaigns.
 
 ---
 
