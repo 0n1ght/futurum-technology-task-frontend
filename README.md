@@ -1,1 +1,47 @@
-# futurum-technology-task-frontend
+# Futurum Technology Task Frontend
+
+## Overview
+
+This project is a full-stack application consisting of:
+
+- Backend: Java Spring Boot with REST API
+- Frontend: React (Vite)
+- Authentication: Basic Auth
+- Features:
+  - User registration
+  - Protected routes
+  - Campaign management (CRUD)
+  - Account balance display
+
+---
+
+## Features
+
+- User registration
+- Basic authentication (username + password)
+- Protected frontend routes
+- Display user account info (username, balance)
+- Campaign list
+- Create, edit, and delete campaigns
+
+---
+
+## Screenshots
+
+### Home page
+<img width="1106" height="781" alt="home" src="https://github.com/user-attachments/assets/3c230d29-b7b0-48c9-8ada-c9ff3ee9dd84" />
+
+### Registration page
+<img width="508" height="212" alt="signup" src="https://github.com/user-attachments/assets/a55107f0-5311-4509-a6fc-c78151eb5bfa" />
+
+### Create campaign
+<img width="402" height="153" alt="Screenshot 2026-03-20 145327" src="https://github.com/user-attachments/assets/08454c13-e5e4-4523-b928-9f34cda0ba17" />
+
+---
+
+## Backend
+
+### Run backend
+
+```bash
+mvn spring-boot:run
